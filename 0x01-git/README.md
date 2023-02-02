@@ -1,1 +1,1 @@
-Git and github lesson
+Git and github lesson on Alx school
